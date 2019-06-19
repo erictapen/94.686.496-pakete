@@ -1,0 +1,20 @@
+[package]
+name = "plakat"
+version = "0.1.0"
+authors = ["Justin Humm <justin.humm@posteo.de>"]
+
+[dependencies]
+xz2 = "*"
+png = "0.13.1"
+xml-rs = "*"
+base64 = "0.10.0"
+bincode = "1.0.1"
+csv = "*"
+serde = "*"
+serde_derive = "*"
+svgparser = "*"
+svg = "0.5.11"
+pcarp = "*"
+
+# [replace]
+# "pcarp:0.3.0" = { path = '/home/justin/git/pcarp' }

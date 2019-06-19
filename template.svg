@@ -1,0 +1,1700 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="841mm"
+   width="594mm"
+   viewBox="0 0 2245.0394 3178.5827"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="template.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1598"
+     inkscape:window-height="873"
+     id="namedview227"
+     showgrid="false"
+     inkscape:zoom="0.35842914"
+     inkscape:cx="1070.9065"
+     inkscape:cy="448.48419"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="95.189358,2249.3151"
+       orientation="1,0"
+       id="guide20164"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2139.5255,1703.1086"
+       orientation="1,0"
+       id="guide20166"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="476.1859,54.761375"
+       orientation="0,1"
+       id="guide20168"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="793.72812,513.52407"
+       orientation="1,0"
+       id="guide20221"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,2245.0394"
+       id="guide1586"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2245.0394,0"
+       orientation="-3178.5827,0"
+       id="guide1588"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2245.0394,3178.5827"
+       orientation="0,-2245.0394"
+       id="guide1590"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,3178.5827"
+       orientation="3178.5827,0"
+       id="guide1592"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1271"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1159"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10582"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path10580" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1280"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1162"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3635"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path3633" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInL"
+       style="overflow:visible">
+      <path
+         id="path1885"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(-0.8)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path1894"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path1773"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-2"
+       style="overflow:visible">
+      <path
+         id="path1894-2"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-9"
+       style="overflow:visible">
+      <path
+         id="path1894-7"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-6"
+       style="overflow:visible">
+      <path
+         id="path1894-1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1280-7"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1280-5"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1280-9"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-27"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1280-0"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-36"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1280-06"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-61"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1280-8"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1280-2"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-23"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1280-75"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-28"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1280-97"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-612"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1280-93"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1280-78"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1271-0"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1271-1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-63"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1271-2"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1271-5"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1271-7"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-56"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1271-9"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-45"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1271-25"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1271-4"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+  </defs>
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="3123.9922"
+     x="2468.9763"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_udp_laptop"
+     height="110.43468" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="3013.5576"
+     x="2468.9763"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_udp_swift"
+     height="110.43468" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="1543.967"
+     x="2540.4043"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_dhcp_laptop"
+     height="110.43468" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="1433.5323"
+     x="2540.4043"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_dhcp_swift"
+     height="110.43468" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="1349.5223"
+     x="-2268.0859"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_imap_swift"
+     height="110.43468" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="857.08368"
+     x="95.189354"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_none_laptop"
+     height="76.178459" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="933.26215"
+     x="95.189354"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_none_swift"
+     height="76.178459" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="1542.6898"
+     x="95.189354"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_dns_laptop"
+     height="76.178459" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="1618.8684"
+     x="95.189354"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_dns_swift"
+     height="76.178459" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="1314.1547"
+     x="95.189354"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_http_laptop"
+     height="76.178459" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="1390.333"
+     x="95.189354"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_http_swift"
+     height="76.178459" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="1085.6191"
+     x="95.189354"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_https_laptop"
+     height="76.178459" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="1161.7975"
+     x="95.189354"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_https_swift"
+     height="76.178459" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="1847.4037"
+     x="95.189354"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_imap_laptop"
+     height="76.178459" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="1771.2252"
+     x="95.189354"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_smtp_laptop"
+     height="76.178459" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="149.01814"
+     x="-2168.8669"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_smtp_swift"
+     height="110.43468" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="1144.1732"
+     x="2502.3091"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_ssh_laptop"
+     height="110.43468" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/13690974876325735988.png"
+     xlink:href="./cache/13690974876325735988.png"
+     y="1254.6079"
+     x="2502.3091"
+     width="2044.3457"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="histo_ssh_swift"
+     height="110.43468" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/12153587009177615517.png"
+     xlink:href="./cache/12153587009177615517.png"
+     y="1942.601"
+     x="-2190.1067"
+     width="807.4624"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     id="datag1"
+     height="332.60898" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot9"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'Fira Sans';font-style:normal;font-weight:normal;font-size:18.66666667px;line-height:25px;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Fira Sans';font-stretch:normal;font-variant:normal;"><flowRegion
+       id="flowRegion11"
+       style="-inkscape-font-specification:'Fira Sans';font-family:'Fira Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"><rect
+         id="rect13"
+         width="1888.967"
+         height="757.60712"
+         x="215.49713"
+         y="208.76285"
+         style="-inkscape-font-specification:'Fira Sans';font-family:'Fira Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+       id="flowPara15" /></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot17"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="translate(3.9455843)"><flowRegion
+       id="flowRegion19"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1;"><rect
+         id="rect21"
+         width="1201.7794"
+         height="400.32727"
+         x="90.912857"
+         y="99.041855"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;text-anchor:start;fill:#666666;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara47">Seit das Internet im Jahr 1982 seinen Anfang nahm, findet die Kommunikation zwischen allen seinen Teilnehmer*innen auf der Basis einzelner Datenpakete statt. Im Zuge der fortschreitenden Digitalisierung wurden diese zum wichtigsten Substrat zwischenmenschlicher Kommunikation.</flowPara><flowPara
+       id="flowPara53" /><flowPara
+       id="flowPara59">Dieses Plakat stellt eine Woche Internetkommunikation von mir, meinem Laptop und meinem Smartphone dar. Von Montag bis Sonntag sind</flowPara></flowRoot>  <flowRoot
+     transform="matrix(1.0093577,0,0,1.0093577,-6.5997114,-244.07178)"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:240px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="flowRoot61"
+     xml:space="preserve"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:240px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
+       id="flowRegion63"><rect
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:240px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
+         y="667.41998"
+         x="90.912857"
+         height="174.80325"
+         width="2067.4255"
+         id="rect65" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:240px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"
+       id="flowPara67">94.686.496 Pakete</flowPara></flowRoot>  <flowRoot
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="flowRoot88"
+     xml:space="preserve"
+     transform="translate(5.9183819,-311.79061)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1"
+       id="flowRegion90"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1"
+         y="872.08997"
+         x="90.912857"
+         height="303.59116"
+         width="1200.1909"
+         id="rect92" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1"
+       id="flowPara94">übermittelt worden.</flowPara><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1"
+       id="flowPara20832" /><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1"
+       id="flowPara20830">Das erste Paket war                                       , das letzte                                       . Viele der Pakete wurden auf meine direkte Anweisung hin übertragen, etwa wenn ich eine E-Mail verschickt habe. Die meisten Daten fließen aber ohne mein Zutun, auch wenn ich „offline“ bin.</flowPara><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1"
+       id="flowPara21183" /><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1"
+       id="flowPara21185">Die folgenden Grafiken stellen die Verteilung verschiedener Arten von Datenpaketen über die Zeit dar. Je dicker der Balken an einer Stelle, desto mehr Pakete dieser Art flossen zum Zeitpunkt.</flowPara></flowRoot>  <flowRoot
+     transform="translate(-29.688236,94.926117)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="flowRoot4741"
+     xml:space="preserve"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+       id="flowRegion4743"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+         y="1956.7023"
+         x="152.73506"
+         height="48.08313"
+         width="459.42746"
+         id="rect4745" /></flowRegion><flowPara
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold Italic'"
+       id="flowPara4747">DNS</flowPara></flowRoot>  <flowRoot
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'Fira Code';font-style:normal;font-weight:normal;font-size:18.66666667px;line-height:25px;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Fira Code';font-stretch:normal;font-variant:normal"
+     id="flowRoot4749"
+     xml:space="preserve"><flowRegion
+       id="flowRegion4751"><rect
+         y="2054.5828"
+         x="174"
+         height="684"
+         width="816"
+         id="rect4753" /></flowRegion><flowPara
+       id="flowPara4755" /></flowRoot>  <flowRoot
+     transform="translate(-27.885017,-34.131166)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="flowRoot4757"
+     xml:space="preserve"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1"
+       id="flowRegion4759"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1"
+         y="2153.6355"
+         x="144.36714"
+         height="554.48944"
+         width="604.5885"
+         id="rect4761" /></flowRegion><flowPara
+       id="flowPara4767">Alle Menschen im Internet kommunizieren miteinander über IP-Adressen. Manche sind zentral für die Funktion des Internets, andere sind kaum der Rede wert. Um diesen wichtigen IP-Adressen Namen zu geben, wird das Domain Name System eingesetzt. Es ist eine verteilte Datenbank gewaltigen Ausmaßes, die für alle Domains wie <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Italic';fill:#666666;fill-opacity:1"
+   id="flowSpan21193">erictapen.name</flowSpan> eine IP-Adresse als Antwort bereit hält. Meine Computer sind ständig damit beschäftigt, dieses System nach neuen Namen zu fragen, oder sich zu vergewissern, das bereits bekannte Namen keine andere IP-Adresse erhalten haben.</flowPara><flowPara
+       id="flowPara19429" /><flowPara
+       id="flowPara19431">Hier ist die Kommunikation zwischen meinem Laptop und einem DNS-Server dargestellt, die nötig ist um die IP-Adresse für die Domain <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Italic';fill:#666666;fill-opacity:1"
+   id="flowSpan21191">glitterkitten.co.uk</flowSpan> zu erfragen.</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot907"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'Fira Code';font-style:normal;font-weight:normal;font-size:18.66666667px;line-height:25px;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Fira Code';font-stretch:normal;font-variant:normal"><flowRegion
+       id="flowRegion909"><rect
+         id="rect911"
+         width="284.52356"
+         height="606.08569"
+         x="1244.1592"
+         y="2286.2898" /></flowRegion><flowPara
+       id="flowPara913" /></flowRoot>  <flowRoot
+     transform="translate(667.35706,748.40146)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="flowRoot4741-6-6"
+     xml:space="preserve"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+       id="flowRegion4743-0-7"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+         y="1956.7023"
+         x="152.73506"
+         height="40.08313"
+         width="245.90663"
+         id="rect4745-8-5" /></flowRegion><flowPara
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold Italic'"
+       id="flowPara4747-9-3">HTTPS</flowPara></flowRoot>  <flowRoot
+     transform="translate(751.53563,739.9836)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     id="flowRoot4757-2-5"
+     xml:space="preserve"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"
+       id="flowRegion4759-2-6"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"
+         y="2035.6163"
+         x="67.395439"
+         height="326.07736"
+         width="593.3606"
+         id="rect4761-3-2" /></flowRegion><flowPara
+       id="flowPara903-9">Um den Sicherheitsproblemen von HTTP zu begegnen, wurde 1994 HTTPS entwickelt. Aufgrund seiner besonders sicheren Eigenschaften und der weiten Verbreitung, wird es mittlerweile längst nicht mehr nur für Webseiten verwendet, sondern für alle möglichen anderen Anwendungen wie Chatapps und Videostreaming. Daher fließen auch fast die ganze Zeit Daten über HTTPS, etwa weil mein Handy nachfragt, ob neue Nachrichten für mich angekommen sind.</flowPara><flowPara
+       id="flowPara864-1" /><flowPara
+       id="flowPara866-2" /><flowPara
+       id="flowPara868-7" /><flowPara
+       id="flowPara870-0" /><flowPara
+       id="flowPara872-9" /><flowPara
+       id="flowPara874-3" /><flowPara
+       id="flowPara876-6" /><flowPara
+       id="flowPara878-0" /><flowPara
+       id="flowPara880-6" /><flowPara
+       id="flowPara882-2" /><flowPara
+       id="flowPara884-6" /><flowPara
+       id="flowPara886-1" /><flowPara
+       id="flowPara888-8" /><flowPara
+       id="flowPara890-7" /><flowPara
+       id="flowPara892-9" /><flowPara
+       id="flowPara894-2" /><flowPara
+       id="flowPara896-0" /></flowRoot>  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/11493294013332154763.png"
+     xlink:href="./cache/11493294013332154763.png"
+     y="634.27435"
+     x="347.15149"
+     id="datag_first_packet"
+     style="image-rendering:optimizeSpeed"
+     preserveAspectRatio="none"
+     height="3.2515492"
+     width="277.46555" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/12153587009177615517.png"
+     xlink:href="./cache/12153587009177615517.png"
+     width="277.46555"
+     height="18.425446"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_last_packet"
+     x="763.50311"
+     y="619.39978" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/14226777884543032867.png"
+     xlink:href="./cache/14226777884543032867.png"
+     height="4.8619771"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-01"
+     x="197.46642"
+     y="2660.823" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/8875584432627991050.png"
+     xlink:href="./cache/8875584432627991050.png"
+     height="17.01692"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-02"
+     x="197.46642"
+     y="2679.2441" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/4086044115696994476.png"
+     xlink:href="./cache/4086044115696994476.png"
+     height="4.8619771"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-03"
+     x="197.46642"
+     y="2709.8203" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/6895808678695786847.png"
+     xlink:href="./cache/6895808678695786847.png"
+     height="17.01692"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-04"
+     x="197.46642"
+     y="2728.2415" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/1718710332396690271.png"
+     xlink:href="./cache/1718710332396690271.png"
+     height="4.8619771"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-05"
+     x="197.46642"
+     y="2758.8176" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/9747146774131508753.png"
+     xlink:href="./cache/9747146774131508753.png"
+     height="32.818344"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-06"
+     x="197.46642"
+     y="2777.2388" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/604861848620470437.png"
+     xlink:href="./cache/604861848620470437.png"
+     height="4.8619771"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-07"
+     x="197.46642"
+     y="2823.6162" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/4610981203868200307.png"
+     xlink:href="./cache/4610981203868200307.png"
+     height="15.801426"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-08"
+     x="197.46642"
+     y="2842.0374" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/8882594521845397303.png"
+     xlink:href="./cache/8882594521845397303.png"
+     height="4.8619771"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-09"
+     x="197.46642"
+     y="2871.3979" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/1946916563323386136.png"
+     xlink:href="./cache/1946916563323386136.png"
+     height="10.939448"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-10"
+     x="197.46642"
+     y="2889.8191" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/17915643413905099102.png"
+     xlink:href="./cache/17915643413905099102.png"
+     height="4.8619771"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-11"
+     x="197.46642"
+     y="2914.3179" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/10485002010942653472.png"
+     xlink:href="./cache/10485002010942653472.png"
+     height="30.387358"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-12"
+     x="197.46642"
+     y="2932.739" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/10610487481876789220.png"
+     xlink:href="./cache/10610487481876789220.png"
+     height="4.8619771"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-13"
+     x="197.46642"
+     y="2976.6855" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/10747685593828598152.png"
+     xlink:href="./cache/10747685593828598152.png"
+     height="15.801426"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-14"
+     x="197.46642"
+     y="2995.1067" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/8236968983155164309.png"
+     xlink:href="./cache/8236968983155164309.png"
+     height="4.8619771"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-15"
+     x="197.46642"
+     y="3024.4673" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/6006013894215603160.png"
+     xlink:href="./cache/6006013894215603160.png"
+     height="7.2929659"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-16"
+     x="197.46642"
+     y="3042.8884" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/4319415588666170016.png"
+     xlink:href="./cache/4319415588666170016.png"
+     height="4.8619771"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-17"
+     x="197.46642"
+     y="3063.7405" />
+  <image
+     sodipodi:absref="/home/justin/fh/analyse/plakat/./cache/329041219947576605.png"
+     xlink:href="./cache/329041219947576605.png"
+     height="7.2929659"
+     width="445.1153"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeSpeed"
+     id="datag_dns-18"
+     x="197.46642"
+     y="3082.1616" />
+  <flowRoot
+     transform="translate(1369.5511,586.19298)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="flowRoot4741-6-6-6"
+     xml:space="preserve"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+       id="flowRegion4743-0-7-7"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+         y="1956.7023"
+         x="152.73506"
+         height="40.08313"
+         width="245.90663"
+         id="rect4745-8-5-5" /></flowRegion><flowPara
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold Italic'"
+       id="flowPara4747-9-3-3">IMAP</flowPara></flowRoot>  <flowRoot
+     transform="translate(1379.0748,564.76462)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     id="flowRoot4757-2-5-5"
+     xml:space="preserve"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"
+       id="flowRegion4759-2-6-6"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"
+         y="2058.4392"
+         x="141"
+         height="273.21838"
+         width="595.43811"
+         id="rect4761-3-2-2" /></flowRegion><flowPara
+       id="flowPara864-1-1">Mit dem Internet Message Access Protocol rufe ich meine E-Mails ab. Wie in der Zeitleiste zu sehen ist, scheine ich das mit präziser Regelmäßigkeit zu machen, zumindest solange ich wach bin. Da ich E-Mails nur auf dem Laptop abrufe, gibt es keine Daten für das Smartphone.</flowPara><flowPara
+       id="flowPara866-2-2" /><flowPara
+       id="flowPara868-7-7" /><flowPara
+       id="flowPara870-0-0" /><flowPara
+       id="flowPara872-9-9" /><flowPara
+       id="flowPara874-3-3" /><flowPara
+       id="flowPara876-6-6" /><flowPara
+       id="flowPara878-0-0" /><flowPara
+       id="flowPara880-6-6" /><flowPara
+       id="flowPara882-2-2" /><flowPara
+       id="flowPara884-6-6" /><flowPara
+       id="flowPara886-1-1" /><flowPara
+       id="flowPara888-8-8" /><flowPara
+       id="flowPara890-7-7" /><flowPara
+       id="flowPara892-9-9" /><flowPara
+       id="flowPara894-2-2" /><flowPara
+       id="flowPara896-0-0" /></flowRoot>  <flowRoot
+     transform="translate(1367.0059,918.70713)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="flowRoot4741-6-6-3"
+     xml:space="preserve"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+       id="flowRegion4743-0-7-75"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+         y="1956.7023"
+         x="152.73506"
+         height="40.08313"
+         width="245.90663"
+         id="rect4745-8-5-9" /></flowRegion><flowPara
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold Italic'"
+       id="flowPara4747-9-3-2">SMTP</flowPara></flowRoot>  <flowRoot
+     transform="translate(1377.1484,902.94224)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     id="flowRoot4757-2-5-2"
+     xml:space="preserve"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"
+       id="flowRegion4759-2-6-8"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"
+         y="2047.7252"
+         x="141"
+         height="250.54874"
+         width="600.20007"
+         id="rect4761-3-2-9" /></flowRegion><flowPara
+       id="flowPara903-9-7">Das Simple Mail Transfer Protocol wird verwendet, um E-Mails zu versenden. Die Daten legen nahe, dass ich in der Woche nur drei E-Mails gesendet habe, wobei die letzte einige Fehlversuche gebraucht hat, bis sie den Absprung geschafft hat.</flowPara><flowPara
+       id="flowPara864-1-3" /><flowPara
+       id="flowPara866-2-6" /><flowPara
+       id="flowPara868-7-1" /><flowPara
+       id="flowPara870-0-2" /><flowPara
+       id="flowPara872-9-93" /><flowPara
+       id="flowPara874-3-1" /><flowPara
+       id="flowPara876-6-9" /><flowPara
+       id="flowPara878-0-4" /><flowPara
+       id="flowPara880-6-7" /><flowPara
+       id="flowPara882-2-8" /><flowPara
+       id="flowPara884-6-4" /><flowPara
+       id="flowPara886-1-5" /><flowPara
+       id="flowPara888-8-0" /><flowPara
+       id="flowPara890-7-3" /><flowPara
+       id="flowPara892-9-6" /><flowPara
+       id="flowPara894-2-1" /><flowPara
+       id="flowPara896-0-06" /></flowRoot>  <flowRoot
+     transform="translate(1369.4993,113.64258)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="flowRoot4741-6-6-3-2"
+     xml:space="preserve"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+       id="flowRegion4743-0-7-75-0"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+         y="1956.7023"
+         x="152.73506"
+         height="40.08313"
+         width="245.90663"
+         id="rect4745-8-5-9-6" /></flowRegion><flowPara
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold Italic'"
+       id="flowPara4747-9-3-2-1">IP</flowPara></flowRoot>  <flowRoot
+     transform="translate(1361.0814,53.034007)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     id="flowRoot4757-2-5-2-5"
+     xml:space="preserve"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"
+       id="flowRegion4759-2-6-8-5"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"
+         y="2101.4448"
+         x="157.83572"
+         height="291.43848"
+         width="593.12146"
+         id="rect4761-3-2-9-4" /></flowRegion><flowPara
+       id="flowPara903-9-7-7">Das Internet Protocol ist die Sprache des Internets, die eine Idee die alles zusammenhält, die Verengung im sanduhrförmigen Prokollstapel, durch die alle Information fließen muss. Alle Teilnehmer*innen des Internets werden über eine oder mehrere IP-Adressen identifiziert. Diese sind entweder 32bit oder 128bit lange Nummern, je nachdem welche der beiden momentan geläufigen Versionen des Internet Protocol verwendet wird.</flowPara><flowPara
+       id="flowPara864-1-3-6" /><flowPara
+       id="flowPara866-2-6-5" /><flowPara
+       id="flowPara868-7-1-6" /><flowPara
+       id="flowPara870-0-2-9" /><flowPara
+       id="flowPara872-9-93-3" /><flowPara
+       id="flowPara874-3-1-7" /><flowPara
+       id="flowPara876-6-9-4" /><flowPara
+       id="flowPara878-0-4-5" /><flowPara
+       id="flowPara880-6-7-2" /><flowPara
+       id="flowPara882-2-8-5" /><flowPara
+       id="flowPara884-6-4-4" /><flowPara
+       id="flowPara886-1-5-7" /><flowPara
+       id="flowPara888-8-0-4" /><flowPara
+       id="flowPara890-7-3-4" /><flowPara
+       id="flowPara892-9-6-3" /><flowPara
+       id="flowPara894-2-1-0" /><flowPara
+       id="flowPara896-0-06-7" /></flowRoot>  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+     d="m 650.53538,2662.6995 h 61.39114"
+     id="path1133"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-3)"
+     d="m 650.53538,2711.5359 h 61.39114"
+     id="path1133-6"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-2)"
+     d="m 650.53538,2760.5532 h 61.39114"
+     id="path1133-1"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-27)"
+     d="m 650.53538,2825.2535 h 61.39114"
+     id="path1133-9"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-36)"
+     d="m 650.53538,2873.2605 h 61.39114"
+     id="path1133-2"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-61)"
+     d="m 650.53538,2916.0658 h 61.39114"
+     id="path1133-7"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-9)"
+     d="m 650.53538,2978.3214 h 61.39114"
+     id="path1133-0"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-23)"
+     d="m 650.53538,3026.473 h 61.39114"
+     id="path1133-92"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-28)"
+     d="m 650.53538,2662.6995 h 61.39114"
+     id="path1133-3"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-612)"
+     d="m 650.53538,3065.5917 h 61.39114"
+     id="path1133-19"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM)"
+     d="m 129.30082,2687.9858 h 61.39114"
+     id="path1133-4"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5)"
+     d="m 129.30082,2735.799 h 61.39114"
+     id="path1133-4-3"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-6)"
+     d="m 129.30082,2792.7618 h 61.39114"
+     id="path1133-4-0"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-63)"
+     d="m 129.30082,2848.8817 h 61.39114"
+     id="path1133-4-06"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-1)"
+     d="m 129.30082,2895.1808 h 61.39114"
+     id="path1133-4-5"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-4)"
+     d="m 129.30082,2948.1308 h 61.39114"
+     id="path1133-4-6"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-56)"
+     d="m 129.30082,3003.3828 h 61.39114"
+     id="path1133-4-37"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-45)"
+     d="m 129.30082,3046.057 h 61.39114"
+     id="path1133-4-4"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.21549428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-7)"
+     d="m 129.30082,3085.2376 h 61.39114"
+     id="path1133-4-43"
+     inkscape:connector-curvature="0" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot19931"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'Fira Code';font-style:normal;font-weight:normal;font-size:18.66666667px;line-height:25px;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Fira Code';font-stretch:normal;font-variant:normal"><flowRegion
+       id="flowRegion19933"><rect
+         id="rect19935"
+         width="49.999519"
+         height="278.56876"
+         x="149.99855"
+         y="1978.5942" /></flowRegion><flowPara
+       id="flowPara19937" /></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot19939"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'Fira Code';font-style:normal;font-weight:normal;font-size:18.66666667px;line-height:25px;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Fira Code';font-stretch:normal;font-variant:normal"><flowRegion
+       id="flowRegion19941"><rect
+         id="rect19943"
+         width="130.95111"
+         height="242.8548"
+         x="114.28461"
+         y="2000.0226" /></flowRegion><flowPara
+       id="flowPara19945" /></flowRoot>  <flowRoot
+     transform="translate(669.58944,298.32118)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="flowRoot4741-6"
+     xml:space="preserve"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+       id="flowRegion4743-0"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+         y="1956.7023"
+         x="152.73506"
+         height="40.08313"
+         width="245.90663"
+         id="rect4745-8" /></flowRegion><flowPara
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold Italic'"
+       id="flowPara4747-9">HTTP</flowPara></flowRoot>  <flowRoot
+     transform="translate(751.7315,292.36886)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     id="flowRoot4757-2"
+     xml:space="preserve"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"
+       id="flowRegion4759-2"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:104.99999523%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"
+         y="2044.1538"
+         x="68.381653"
+         height="259.57587"
+         width="599.21387"
+         id="rect4761-3" /></flowRegion><flowPara
+       id="flowPara903">Das Hypertext Transfer Protocol ist die Grundlage des World Wide Web. Es ist in seiner urprünglichen Form unverschlüsselt und daher nicht gegen Überwachung und Zensur geschützt. Daher wird HTTP momentan von der sicheren Erweiterung HTTPS abgelöst. Dennoch ist es nach wie vor bei vielen Webseiten im Einsatz. In der Zeitleiste ist deutlich sichtbar, wann ich Webseiten über HTTP aufgerufen habe.</flowPara><flowPara
+       id="flowPara864" /><flowPara
+       id="flowPara866" /><flowPara
+       id="flowPara868" /><flowPara
+       id="flowPara870" /><flowPara
+       id="flowPara872" /><flowPara
+       id="flowPara874" /><flowPara
+       id="flowPara876" /><flowPara
+       id="flowPara878" /><flowPara
+       id="flowPara880" /><flowPara
+       id="flowPara882" /><flowPara
+       id="flowPara884" /><flowPara
+       id="flowPara886" /><flowPara
+       id="flowPara888" /><flowPara
+       id="flowPara890" /><flowPara
+       id="flowPara892" /><flowPara
+       id="flowPara894" /><flowPara
+       id="flowPara896" /></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot20793"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'Fira Code';font-style:normal;font-weight:normal;font-size:18.66666667px;line-height:25px;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Fira Code';font-stretch:normal;font-variant:normal"><flowRegion
+       id="flowRegion20795"><rect
+         id="rect20797"
+         width="521.42352"
+         height="38.094872"
+         x="97.618103"
+         y="848.84326" /></flowRegion><flowPara
+       id="flowPara20799" /></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="translate(2.57818,23.426927)"><flowRegion
+       id="flowRegion21304"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"><rect
+         id="rect21306"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara21308">Alle Pakete – Laptop</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-4"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="translate(2.5781771,99.614181)"><flowRegion
+       id="flowRegion21304-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"><rect
+         id="rect21306-0"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara21308-4">Alle Pakete – Smartphone</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-2"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="translate(2.5781771,251.96693)"><flowRegion
+       id="flowRegion21304-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"><rect
+         id="rect21306-6"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara21308-1">HTTPS – Laptop</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-4-0"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="translate(2.5781771,328.15418)"><flowRegion
+       id="flowRegion21304-8-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"><rect
+         id="rect21306-0-2"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara21308-4-2">HTTPS – Smartphone</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-2-5"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="translate(2.5781771,480.50693)"><flowRegion
+       id="flowRegion21304-9-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"><rect
+         id="rect21306-6-9"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara21308-1-4">HTTP – Laptop</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-4-0-1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="translate(2.5781771,556.69418)"><flowRegion
+       id="flowRegion21304-8-4-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"><rect
+         id="rect21306-0-2-4"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara21308-4-2-1">HTTP – Smartphone</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-2-5-5"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="translate(2.5781771,709.04693)"><flowRegion
+       id="flowRegion21304-9-3-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"><rect
+         id="rect21306-6-9-4"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara21308-1-4-9">DNS – Laptop</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-4-0-1-8"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="translate(2.5781771,785.23418)"><flowRegion
+       id="flowRegion21304-8-4-5-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"><rect
+         id="rect21306-0-2-4-8"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara21308-4-2-1-5">DNS – Smartphone</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-2-5-5-2"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="translate(2.5781771,937.58693)"><flowRegion
+       id="flowRegion21304-9-3-5-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"><rect
+         id="rect21306-6-9-4-2"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara21308-1-4-9-7">SMTP – Laptop</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-4-0-1-8-0"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="translate(2.5781771,1013.7742)"><flowRegion
+       id="flowRegion21304-8-4-5-3-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"><rect
+         id="rect21306-0-2-4-8-4"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara21308-4-2-1-5-6">IMAP – Laptop</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-4-0-1-8-0-3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="translate(-8.5006616,1140.4838)"><flowRegion
+       id="flowRegion21304-8-4-5-3-3-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;"><rect
+         id="rect21306-0-2-4-8-4-3"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara21308-4-2-1-5-6-3">0:00 Uhr, Mo., 14.01.2019</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-4-0-1-8-0-3-4"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(281.16439,1140.4838)"><flowRegion
+       id="flowRegion21304-8-4-5-3-3-6-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1"><rect
+         id="rect21306-0-2-4-8-4-3-3"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1" /></flowRegion><flowPara
+       id="flowPara21308-4-2-1-5-6-3-9">0:00 Uhr, Di., 15.01.</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-4-0-1-8-0-3-4-7"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(573.21139,1140.4838)"><flowRegion
+       id="flowRegion21304-8-4-5-3-3-6-4-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1"><rect
+         id="rect21306-0-2-4-8-4-3-3-5"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1" /></flowRegion><flowPara
+       id="flowPara21308-4-2-1-5-6-3-9-8">0:00 Uhr, Mi., 16.01.</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-4-0-1-8-0-3-4-7-9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(865.25839,1140.4838)"><flowRegion
+       id="flowRegion21304-8-4-5-3-3-6-4-2-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1"><rect
+         id="rect21306-0-2-4-8-4-3-3-5-2"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1" /></flowRegion><flowPara
+       id="flowPara21308-4-2-1-5-6-3-9-8-4">0:00 Uhr, Do., 17.01.</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-4-0-1-8-0-3-4-7-9-7"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(1157.3054,1140.4838)"><flowRegion
+       id="flowRegion21304-8-4-5-3-3-6-4-2-0-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1"><rect
+         id="rect21306-0-2-4-8-4-3-3-5-2-5"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1" /></flowRegion><flowPara
+       id="flowPara21308-4-2-1-5-6-3-9-8-4-7">0:00 Uhr, Fr., 18.01.</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-4-0-1-8-0-3-4-7-9-7-1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(1449.3524,1140.4838)"><flowRegion
+       id="flowRegion21304-8-4-5-3-3-6-4-2-0-6-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1"><rect
+         id="rect21306-0-2-4-8-4-3-3-5-2-5-3"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1" /></flowRegion><flowPara
+       id="flowPara21308-4-2-1-5-6-3-9-8-4-7-3">0:00 Uhr, Sa., 19.01.</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-4-0-1-8-0-3-4-7-9-7-1-8"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(1741.3994,1140.4838)"><flowRegion
+       id="flowRegion21304-8-4-5-3-3-6-4-2-0-6-3-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1"><rect
+         id="rect21306-0-2-4-8-4-3-3-5-2-5-3-1"
+         width="321.56537"
+         height="22.687134"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#666666;fill-opacity:1" /></flowRegion><flowPara
+       id="flowPara21308-4-2-1-5-6-3-9-8-4-7-3-0">0:00 Uhr, So., 20.01.</flowPara></flowRoot>  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1,12;stroke-dashoffset:0"
+     d="M 95.189357,802.41512 V 1978.5943"
+     id="path21195"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,12;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 2139.5255,802.41508 V 1978.5943"
+     id="path21195-0"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,12;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 387.2362,802.41508 V 1978.5943"
+     id="path21195-7"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,12;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 679.2835,802.41508 V 1978.5943"
+     id="path21195-7-8"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,12;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 971.3308,802.41508 V 1978.5943"
+     id="path21195-7-8-6"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,12;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 1263.3781,802.41508 V 1978.5943"
+     id="path21195-7-8-6-8"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,12;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 1555.4254,802.41508 V 1978.5943"
+     id="path21195-7-8-6-8-8"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,12;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 1847.4727,802.41508 V 1978.5943"
+     id="path21195-7-8-6-8-8-4"
+     inkscape:connector-curvature="0" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot21302-4-0-1-8-0-3-4-7-9-7-1-8-3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#9d9d9d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(1297.3746,2319.6989)"><flowRegion
+       id="flowRegion21304-8-4-5-3-3-6-4-2-0-6-3-5-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#9d9d9d;fill-opacity:1"><rect
+         id="rect21306-0-2-4-8-4-3-3-5-2-5-3-1-0"
+         width="1087.9819"
+         height="42.259525"
+         x="105.05127"
+         y="830.46484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#9d9d9d;fill-opacity:1" /></flowRegion><flowPara
+       id="flowPara21308-4-2-1-5-6-3-9-8-4-7-3-0-8">Justin Humm, 1. Semester KD, Grundlagen Interfacedesign: ANALYSE – Informationsarchitektur und Visualisierung, https://erictapen.name/ </flowPara></flowRoot>  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 68.143515,1.1419255e-5 H 363.87841"
+     id="path1398"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 1884.1102,1.1419662e-5 h 295.7349"
+     id="path1398-3"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 1884.1102,3178.5827 h 295.7349"
+     id="path1398-3-6"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 95.189357,3178.5827 H 390.92426"
+     id="path1398-3-7"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 0,2828.0864 v 295.7349"
+     id="path1398-3-5"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 0,91.501067 V 387.23597"
+     id="path1398-3-5-5"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 2245.0394,90.106068 V 385.84097"
+     id="path1398-3-5-6"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 2245.0394,2828.0864 v 295.7349"
+     id="path1398-3-5-2"
+     inkscape:connector-curvature="0" />
+</svg>
