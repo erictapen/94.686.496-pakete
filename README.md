@@ -11,7 +11,7 @@ Die Dateien `plakat_mit_text_final.pdf` und `plakat_ohne_text_final.pdf` (Text a
 
 ## Building
 
-Benötigt werden `cargo`, `rustc` und `inkscape`. [Nix](https://nixos.org/nix)-User können mit `nix-shell` bequem alle Dependencies temporär installieren.
+Benötigt werden `cargo`, `rustc`, `wireshark` und `inkscape`. [Nix](https://nixos.org/nix)-User können mit `nix-shell` bequem alle Dependencies temporär installieren.
 
 Zum generieren des Plakates dann
 
